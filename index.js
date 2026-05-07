@@ -38,7 +38,7 @@ server.tool(
   }
 );
 
-// Get 5day forecast
+// Get 5days forecast
 server.tool(
   'get_forecast',
   'Get a 5-day weather forecast for a city',
